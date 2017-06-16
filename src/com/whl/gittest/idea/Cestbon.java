@@ -8,6 +8,6 @@ package com.whl.gittest.idea;
  */
 public class Cestbon {
     public static void main(String[] args) {
-        System.out.println("太容易付出却不容易相处难怪我总是被辜负");
+        System.out.println("太容易付出却不容易相处难怪我总是被辜负，一收到礼物，就可爱像宠物");
     }
 }
